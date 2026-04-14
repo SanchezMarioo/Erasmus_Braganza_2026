@@ -127,5 +127,3 @@ Alumnos aceptados en un BIP.
 - Alumno → Solicitud (1:N)
 - BIP → Solicitud (1:N)
 - Alumno ↔ BIP (N:M mediante Inscripcion)
-
-
